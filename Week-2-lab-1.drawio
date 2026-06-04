@@ -274,6 +274,12 @@
         <mxCell id="L9MO9Gf3CgOfGLS6imF1-118" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 11px; white-space: nowrap;&quot;&gt;undergoes&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="600" y="240" as="geometry" />
         </mxCell>
+        <mxCell id="olDMR_5UOjrqNC3lsigQ-90" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;strong data-start=&quot;0&quot; data-end=&quot;17&quot; data-is-only-node=&quot;&quot;&gt;Figure 1:&lt;/strong&gt; &lt;em data-start=&quot;18&quot; data-end=&quot;145&quot; data-is-last-node=&quot;&quot;&gt;Enhanced Entity-Relationship (EER) Diagram for Car Manufacturing Company -Car Production, Classification, and Testing System&lt;/em&gt;" vertex="1">
+          <mxGeometry height="30" width="550" x="200" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="olDMR_5UOjrqNC3lsigQ-91" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Raghav Kuinkel NP069732" vertex="1">
+          <mxGeometry height="30" width="200" x="520" y="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
